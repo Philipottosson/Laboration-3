@@ -2,8 +2,6 @@
   "profiles": {
     "Lab 3": {
       "commandName": "Project",
-      "commandLineArgs": "Test_400x200.png",
-      "workingDirectory": "D:\\Skola\\Laboration\\Lab 3\\image",
       "nativeDebugging": false
     }
   }
